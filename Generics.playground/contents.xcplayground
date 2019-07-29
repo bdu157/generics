@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<playground version='6.0' target-platform='ios' display-mode='raw'>
+    <pages>
+        <page name='Generic challenge'/>
+        <page name='1. Generics'/>
+        <page name='2. Generic Operator'/>
+        <page name='3. Generic Types'/>
+        <page name='4. Generic Constraints'/>
+    </pages>
+</playground>
